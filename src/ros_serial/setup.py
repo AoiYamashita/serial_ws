@@ -15,11 +15,12 @@ setup(
     zip_safe=True,
     maintainer='yamashita',
     maintainer_email='Yamashitaaoi1230@icloud.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='use usb serial',
+    license='BSD-3-Clause',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'talker = ros_serial.serial.main',
         ],
     },
 )

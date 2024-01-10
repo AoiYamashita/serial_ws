@@ -1,0 +1,128 @@
+[12.052s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[12.053s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=4, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0xffffa8c3d5a0>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0xffffa91bb820>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0xffffa91bb820>>)
+[12.692s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[12.693s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[12.693s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[12.693s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[12.694s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[12.694s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[12.694s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/yamashita/serial_ws'
+[12.695s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[12.696s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[12.697s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[12.697s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[12.698s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[12.698s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[12.698s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[12.699s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[12.699s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[12.834s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[12.834s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[12.835s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[12.835s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[12.835s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[12.836s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[12.837s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[12.838s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[12.839s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[12.840s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[12.841s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[12.842s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[12.843s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[12.843s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[12.844s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[12.845s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[12.846s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[12.846s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[12.846s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[12.847s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[12.847s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[12.848s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[12.848s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[12.849s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[12.849s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[12.850s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[12.850s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[12.850s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[12.851s] Level 1:colcon.colcon_core.package_identification:_identify(src/ros_serial) by extensions ['ignore', 'ignore_ament_install']
+[12.852s] Level 1:colcon.colcon_core.package_identification:_identify(src/ros_serial) by extension 'ignore'
+[12.853s] Level 1:colcon.colcon_core.package_identification:_identify(src/ros_serial) by extension 'ignore_ament_install'
+[12.853s] Level 1:colcon.colcon_core.package_identification:_identify(src/ros_serial) by extensions ['colcon_pkg']
+[12.854s] Level 1:colcon.colcon_core.package_identification:_identify(src/ros_serial) by extension 'colcon_pkg'
+[12.854s] Level 1:colcon.colcon_core.package_identification:_identify(src/ros_serial) by extensions ['colcon_meta']
+[12.854s] Level 1:colcon.colcon_core.package_identification:_identify(src/ros_serial) by extension 'colcon_meta'
+[12.855s] Level 1:colcon.colcon_core.package_identification:_identify(src/ros_serial) by extensions ['ros']
+[12.855s] Level 1:colcon.colcon_core.package_identification:_identify(src/ros_serial) by extension 'ros'
+[12.873s] DEBUG:colcon.colcon_core.package_identification:Package 'src/ros_serial' with type 'ros.ament_python' and name 'ros_serial'
+[12.874s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[12.874s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[12.875s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[12.875s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[12.875s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[13.947s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[13.947s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[14.317s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 1 installed packages in /home/yamashita/serial_ws/install
+[14.507s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 2 installed packages in /home/yamashita/ros2_ws/install
+[14.697s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 290 installed packages in /opt/ros/humble
+[14.711s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[15.635s] Level 5:colcon.colcon_core.verb:set package 'ros_serial' build argument 'cmake_args' from command line to 'None'
+[15.636s] Level 5:colcon.colcon_core.verb:set package 'ros_serial' build argument 'cmake_target' from command line to 'None'
+[15.636s] Level 5:colcon.colcon_core.verb:set package 'ros_serial' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[15.636s] Level 5:colcon.colcon_core.verb:set package 'ros_serial' build argument 'cmake_clean_cache' from command line to 'False'
+[15.637s] Level 5:colcon.colcon_core.verb:set package 'ros_serial' build argument 'cmake_clean_first' from command line to 'False'
+[15.637s] Level 5:colcon.colcon_core.verb:set package 'ros_serial' build argument 'cmake_force_configure' from command line to 'False'
+[15.637s] Level 5:colcon.colcon_core.verb:set package 'ros_serial' build argument 'ament_cmake_args' from command line to 'None'
+[15.637s] Level 5:colcon.colcon_core.verb:set package 'ros_serial' build argument 'catkin_cmake_args' from command line to 'None'
+[15.638s] Level 5:colcon.colcon_core.verb:set package 'ros_serial' build argument 'catkin_skip_building_tests' from command line to 'False'
+[15.638s] DEBUG:colcon.colcon_core.verb:Building package 'ros_serial' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/yamashita/serial_ws/build/ros_serial', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/yamashita/serial_ws/install/ros_serial', 'merge_install': False, 'path': '/home/yamashita/serial_ws/src/ros_serial', 'symlink_install': False, 'test_result_base': None}
+[15.812s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[15.995s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[15.998s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/yamashita/serial_ws/src/ros_serial' with build type 'ament_python'
+[16.000s] Level 1:colcon.colcon_core.shell:create_environment_hook('ros_serial', 'ament_prefix_path')
+[16.421s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[16.423s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yamashita/serial_ws/install/ros_serial/share/ros_serial/hook/ament_prefix_path.ps1'
+[16.428s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/yamashita/serial_ws/install/ros_serial/share/ros_serial/hook/ament_prefix_path.dsv'
+[16.433s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yamashita/serial_ws/install/ros_serial/share/ros_serial/hook/ament_prefix_path.sh'
+[16.699s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[16.700s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[20.435s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/yamashita/serial_ws/src/ros_serial'
+[20.682s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[20.684s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[29.708s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/yamashita/serial_ws/src/ros_serial': PYTHONPATH=/home/yamashita/serial_ws/build/ros_serial/prefix_override:/home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros_serial build --build-base /home/yamashita/serial_ws/build/ros_serial/build install --record /home/yamashita/serial_ws/build/ros_serial/install.log --single-version-externally-managed
+[37.430s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/yamashita/serial_ws/src/ros_serial' returned '0': PYTHONPATH=/home/yamashita/serial_ws/build/ros_serial/prefix_override:/home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros_serial build --build-base /home/yamashita/serial_ws/build/ros_serial/build install --record /home/yamashita/serial_ws/build/ros_serial/install.log --single-version-externally-managed
+[37.693s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/serial_ws/install/ros_serial' for CMake module files
+[37.701s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/serial_ws/install/ros_serial' for CMake config files
+[37.709s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/serial_ws/install/ros_serial/lib'
+[37.712s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/serial_ws/install/ros_serial/bin'
+[37.713s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/serial_ws/install/ros_serial/lib/pkgconfig/ros_serial.pc'
+[37.715s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages'
+[37.717s] Level 1:colcon.colcon_core.shell:create_environment_hook('ros_serial', 'pythonpath')
+[37.971s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yamashita/serial_ws/install/ros_serial/share/ros_serial/hook/pythonpath.ps1'
+[37.976s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/yamashita/serial_ws/install/ros_serial/share/ros_serial/hook/pythonpath.dsv'
+[37.979s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/yamashita/serial_ws/install/ros_serial/share/ros_serial/hook/pythonpath.sh'
+[37.987s] Level 1:colcon.colcon_core.environment:checking '/home/yamashita/serial_ws/install/ros_serial/bin'
+[37.989s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(ros_serial)
+[38.247s] INFO:colcon.colcon_core.shell:Creating package script '/home/yamashita/serial_ws/install/ros_serial/share/ros_serial/package.ps1'
+[38.254s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/yamashita/serial_ws/install/ros_serial/share/ros_serial/package.dsv'
+[38.261s] INFO:colcon.colcon_core.shell:Creating package script '/home/yamashita/serial_ws/install/ros_serial/share/ros_serial/package.sh'
+[38.268s] INFO:colcon.colcon_core.shell:Creating package script '/home/yamashita/serial_ws/install/ros_serial/share/ros_serial/package.bash'
+[38.276s] INFO:colcon.colcon_core.shell:Creating package script '/home/yamashita/serial_ws/install/ros_serial/share/ros_serial/package.zsh'
+[38.282s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/yamashita/serial_ws/install/ros_serial/share/colcon-core/packages/ros_serial)
+[38.285s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[38.288s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[38.289s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[38.290s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[38.599s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[38.599s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[38.600s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[38.637s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[38.952s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/yamashita/serial_ws/install/local_setup.ps1'
+[38.960s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/yamashita/serial_ws/install/_local_setup_util_ps1.py'
+[38.972s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/yamashita/serial_ws/install/setup.ps1'
+[39.172s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/yamashita/serial_ws/install/local_setup.sh'
+[39.177s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/yamashita/serial_ws/install/_local_setup_util_sh.py'
+[39.183s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/yamashita/serial_ws/install/setup.sh'
+[39.370s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/yamashita/serial_ws/install/local_setup.bash'
+[39.375s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/yamashita/serial_ws/install/setup.bash'
+[39.561s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/yamashita/serial_ws/install/local_setup.zsh'
+[39.566s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/yamashita/serial_ws/install/setup.zsh'

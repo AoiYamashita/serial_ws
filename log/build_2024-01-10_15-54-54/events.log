@@ -1,0 +1,279 @@
+[0.000000] (-) TimerEvent: {}
+[0.002174] (ros_serial) JobQueued: {'identifier': 'ros_serial', 'dependencies': OrderedDict()}
+[0.003918] (ros_serial) JobStarted: {'identifier': 'ros_serial'}
+[0.190459] (-) TimerEvent: {}
+[0.292498] (-) TimerEvent: {}
+[0.400758] (-) TimerEvent: {}
+[0.502676] (-) TimerEvent: {}
+[0.605055] (-) TimerEvent: {}
+[0.706904] (-) TimerEvent: {}
+[0.810177] (-) TimerEvent: {}
+[0.911749] (-) TimerEvent: {}
+[1.013514] (-) TimerEvent: {}
+[1.115038] (-) TimerEvent: {}
+[1.222002] (-) TimerEvent: {}
+[1.326565] (-) TimerEvent: {}
+[1.429693] (-) TimerEvent: {}
+[1.532942] (-) TimerEvent: {}
+[1.634439] (-) TimerEvent: {}
+[1.739209] (-) TimerEvent: {}
+[1.840731] (-) TimerEvent: {}
+[1.942578] (-) TimerEvent: {}
+[2.043921] (-) TimerEvent: {}
+[2.145177] (-) TimerEvent: {}
+[2.246529] (-) TimerEvent: {}
+[2.347893] (-) TimerEvent: {}
+[2.449553] (-) TimerEvent: {}
+[2.552412] (-) TimerEvent: {}
+[2.653873] (-) TimerEvent: {}
+[2.755328] (-) TimerEvent: {}
+[2.856782] (-) TimerEvent: {}
+[2.958216] (-) TimerEvent: {}
+[3.059840] (-) TimerEvent: {}
+[3.230854] (-) TimerEvent: {}
+[3.332059] (-) TimerEvent: {}
+[3.433637] (-) TimerEvent: {}
+[3.535018] (-) TimerEvent: {}
+[3.636654] (-) TimerEvent: {}
+[3.737998] (-) TimerEvent: {}
+[3.839262] (-) TimerEvent: {}
+[3.940536] (-) TimerEvent: {}
+[4.042084] (-) TimerEvent: {}
+[4.143320] (-) TimerEvent: {}
+[4.244657] (-) TimerEvent: {}
+[4.346052] (-) TimerEvent: {}
+[4.447349] (-) TimerEvent: {}
+[4.548558] (-) TimerEvent: {}
+[4.650196] (-) TimerEvent: {}
+[4.751480] (-) TimerEvent: {}
+[4.853591] (-) TimerEvent: {}
+[4.956687] (-) TimerEvent: {}
+[5.058316] (-) TimerEvent: {}
+[5.160069] (-) TimerEvent: {}
+[5.261716] (-) TimerEvent: {}
+[5.364832] (-) TimerEvent: {}
+[5.466575] (-) TimerEvent: {}
+[5.568477] (-) TimerEvent: {}
+[5.671659] (-) TimerEvent: {}
+[5.773036] (-) TimerEvent: {}
+[5.874564] (-) TimerEvent: {}
+[5.976001] (-) TimerEvent: {}
+[6.078932] (-) TimerEvent: {}
+[6.180962] (-) TimerEvent: {}
+[6.283466] (-) TimerEvent: {}
+[6.387093] (-) TimerEvent: {}
+[6.490439] (-) TimerEvent: {}
+[6.591830] (-) TimerEvent: {}
+[6.693172] (-) TimerEvent: {}
+[6.794635] (-) TimerEvent: {}
+[6.895949] (-) TimerEvent: {}
+[6.997310] (-) TimerEvent: {}
+[7.098769] (-) TimerEvent: {}
+[7.199999] (-) TimerEvent: {}
+[7.301291] (-) TimerEvent: {}
+[7.402702] (-) TimerEvent: {}
+[7.504190] (-) TimerEvent: {}
+[7.605522] (-) TimerEvent: {}
+[7.706891] (-) TimerEvent: {}
+[7.808121] (-) TimerEvent: {}
+[7.909542] (-) TimerEvent: {}
+[8.011094] (-) TimerEvent: {}
+[8.112353] (-) TimerEvent: {}
+[8.213725] (-) TimerEvent: {}
+[8.315118] (-) TimerEvent: {}
+[8.416424] (-) TimerEvent: {}
+[8.518026] (-) TimerEvent: {}
+[8.619622] (-) TimerEvent: {}
+[8.720928] (-) TimerEvent: {}
+[8.822355] (-) TimerEvent: {}
+[8.923641] (-) TimerEvent: {}
+[9.024937] (-) TimerEvent: {}
+[9.126222] (-) TimerEvent: {}
+[9.227536] (-) TimerEvent: {}
+[9.328977] (-) TimerEvent: {}
+[9.430208] (-) TimerEvent: {}
+[9.531469] (-) TimerEvent: {}
+[9.632724] (-) TimerEvent: {}
+[9.734100] (-) TimerEvent: {}
+[9.835450] (-) TimerEvent: {}
+[9.936797] (-) TimerEvent: {}
+[10.038168] (-) TimerEvent: {}
+[10.139583] (-) TimerEvent: {}
+[10.240855] (-) TimerEvent: {}
+[10.342199] (-) TimerEvent: {}
+[10.443467] (-) TimerEvent: {}
+[10.544720] (-) TimerEvent: {}
+[10.646267] (-) TimerEvent: {}
+[10.747494] (-) TimerEvent: {}
+[10.848827] (-) TimerEvent: {}
+[10.950116] (-) TimerEvent: {}
+[11.051635] (-) TimerEvent: {}
+[11.153730] (-) TimerEvent: {}
+[11.255310] (-) TimerEvent: {}
+[11.356669] (-) TimerEvent: {}
+[11.458296] (-) TimerEvent: {}
+[11.560240] (-) TimerEvent: {}
+[11.661649] (-) TimerEvent: {}
+[11.763081] (-) TimerEvent: {}
+[11.864779] (-) TimerEvent: {}
+[11.966203] (-) TimerEvent: {}
+[12.068161] (-) TimerEvent: {}
+[12.170568] (-) TimerEvent: {}
+[12.271857] (-) TimerEvent: {}
+[12.373143] (-) TimerEvent: {}
+[12.474426] (-) TimerEvent: {}
+[12.575711] (-) TimerEvent: {}
+[12.677037] (-) TimerEvent: {}
+[12.778752] (-) TimerEvent: {}
+[12.880111] (-) TimerEvent: {}
+[12.981669] (-) TimerEvent: {}
+[13.083060] (-) TimerEvent: {}
+[13.184435] (-) TimerEvent: {}
+[13.285903] (-) TimerEvent: {}
+[13.391680] (-) TimerEvent: {}
+[13.493155] (-) TimerEvent: {}
+[13.594563] (-) TimerEvent: {}
+[13.695777] (-) TimerEvent: {}
+[13.797070] (-) TimerEvent: {}
+[13.898603] (-) TimerEvent: {}
+[14.000626] (-) TimerEvent: {}
+[14.102180] (-) TimerEvent: {}
+[14.203498] (-) TimerEvent: {}
+[14.304850] (-) TimerEvent: {}
+[14.406216] (-) TimerEvent: {}
+[14.507585] (-) TimerEvent: {}
+[14.609170] (-) TimerEvent: {}
+[14.712265] (-) TimerEvent: {}
+[14.814046] (-) TimerEvent: {}
+[14.915600] (-) TimerEvent: {}
+[15.017380] (-) TimerEvent: {}
+[15.082656] (ros_serial) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/ros_serial', 'build', '--build-base', '/home/yamashita/serial_ws/build/ros_serial/build', 'install', '--record', '/home/yamashita/serial_ws/build/ros_serial/install.log', '--single-version-externally-managed'], 'cwd': '/home/yamashita/serial_ws/src/ros_serial', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'yamashita', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/yamashita', 'OLDPWD': '/home/yamashita', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'SYSTEMD_EXEC_PID': '2244', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'COLCON_PREFIX_PATH': '/home/yamashita/serial_ws/install:/home/yamashita/ros2_ws/install', 'ROS_DISTRO': 'humble', 'GTK_IM_MODULE': 'ibus', 'LOGNAME': 'yamashita', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'yamashita', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/raspberrypi:@/tmp/.ICE-unix/1693,unix/raspberrypi:/tmp/.ICE-unix/1693', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/7872bf5b_80f7_46a8_8a93_7db43a8cceac', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':1', 'LANG': 'C.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.82', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/yamashita/serial_ws/install/ros_serial:/home/yamashita/ros2_ws/install/robo231:/opt/ros/humble', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/yamashita/serial_ws/build/ros_serial', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/yamashita/serial_ws/build/ros_serial/prefix_override:/home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages:/home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages:/home/yamashita/ros2_ws/install/robo231/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[15.119048] (-) TimerEvent: {}
+[15.227706] (-) TimerEvent: {}
+[15.329961] (-) TimerEvent: {}
+[15.431213] (-) TimerEvent: {}
+[15.532741] (-) TimerEvent: {}
+[15.634506] (-) TimerEvent: {}
+[15.735811] (-) TimerEvent: {}
+[15.837334] (-) TimerEvent: {}
+[15.938873] (-) TimerEvent: {}
+[16.040170] (-) TimerEvent: {}
+[16.141448] (-) TimerEvent: {}
+[16.242791] (-) TimerEvent: {}
+[16.344062] (-) TimerEvent: {}
+[16.445312] (-) TimerEvent: {}
+[16.546777] (-) TimerEvent: {}
+[16.648072] (-) TimerEvent: {}
+[16.749435] (-) TimerEvent: {}
+[16.850794] (-) TimerEvent: {}
+[16.951991] (-) TimerEvent: {}
+[17.053328] (-) TimerEvent: {}
+[17.154734] (-) TimerEvent: {}
+[17.256030] (-) TimerEvent: {}
+[17.357366] (-) TimerEvent: {}
+[17.458699] (-) TimerEvent: {}
+[17.560001] (-) TimerEvent: {}
+[17.661339] (-) TimerEvent: {}
+[17.762564] (-) TimerEvent: {}
+[17.863871] (-) TimerEvent: {}
+[17.965240] (-) TimerEvent: {}
+[18.066605] (-) TimerEvent: {}
+[18.146452] (ros_serial) StdoutLine: {'line': b'running egg_info\n'}
+[18.166855] (-) TimerEvent: {}
+[18.268162] (-) TimerEvent: {}
+[18.369534] (-) TimerEvent: {}
+[18.378079] (ros_serial) StdoutLine: {'line': b'writing ../../build/ros_serial/ros_serial.egg-info/PKG-INFO\n'}
+[18.387983] (ros_serial) StdoutLine: {'line': b'writing dependency_links to ../../build/ros_serial/ros_serial.egg-info/dependency_links.txt\n'}
+[18.391514] (ros_serial) StdoutLine: {'line': b'writing entry points to ../../build/ros_serial/ros_serial.egg-info/entry_points.txt\n'}
+[18.394408] (ros_serial) StdoutLine: {'line': b'writing requirements to ../../build/ros_serial/ros_serial.egg-info/requires.txt\n'}
+[18.396390] (ros_serial) StdoutLine: {'line': b'writing top-level names to ../../build/ros_serial/ros_serial.egg-info/top_level.txt\n'}
+[18.469887] (-) TimerEvent: {}
+[18.571213] (-) TimerEvent: {}
+[18.672633] (-) TimerEvent: {}
+[18.774568] (-) TimerEvent: {}
+[18.875872] (-) TimerEvent: {}
+[18.906390] (ros_serial) StdoutLine: {'line': b"reading manifest file '../../build/ros_serial/ros_serial.egg-info/SOURCES.txt'\n"}
+[18.921201] (ros_serial) StdoutLine: {'line': b"writing manifest file '../../build/ros_serial/ros_serial.egg-info/SOURCES.txt'\n"}
+[18.924533] (ros_serial) StdoutLine: {'line': b'running build\n'}
+[18.926303] (ros_serial) StdoutLine: {'line': b'running build_py\n'}
+[18.928038] (ros_serial) StdoutLine: {'line': b'copying ros_serial/serial.py -> /home/yamashita/serial_ws/build/ros_serial/build/lib/ros_serial\n'}
+[18.933161] (ros_serial) StdoutLine: {'line': b'copying ros_serial/__init__.py -> /home/yamashita/serial_ws/build/ros_serial/build/lib/ros_serial\n'}
+[18.941472] (ros_serial) StdoutLine: {'line': b'running install\n'}
+[18.944997] (ros_serial) StderrLine: {'line': b'/home/yamashita/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.\n'}
+[18.946447] (ros_serial) StderrLine: {'line': b'!!\n'}
+[18.947331] (ros_serial) StderrLine: {'line': b'\n'}
+[18.948096] (ros_serial) StderrLine: {'line': b'        ********************************************************************************\n'}
+[18.948841] (ros_serial) StderrLine: {'line': b'        Please avoid running ``setup.py`` directly.\n'}
+[18.949713] (ros_serial) StderrLine: {'line': b'        Instead, use pypa/build, pypa/installer or other\n'}
+[18.954264] (ros_serial) StderrLine: {'line': b'        standards-based tools.\n'}
+[18.955617] (ros_serial) StderrLine: {'line': b'\n'}
+[18.956663] (ros_serial) StderrLine: {'line': b'        See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.\n'}
+[18.957735] (ros_serial) StderrLine: {'line': b'        ********************************************************************************\n'}
+[18.958974] (ros_serial) StderrLine: {'line': b'\n'}
+[18.960063] (ros_serial) StderrLine: {'line': b'!!\n'}
+[18.961351] (ros_serial) StderrLine: {'line': b'  self.initialize_options()\n'}
+[18.976170] (-) TimerEvent: {}
+[19.012505] (ros_serial) StdoutLine: {'line': b'running install_lib\n'}
+[19.076473] (-) TimerEvent: {}
+[19.177738] (-) TimerEvent: {}
+[19.267386] (ros_serial) StdoutLine: {'line': b'copying /home/yamashita/serial_ws/build/ros_serial/build/lib/ros_serial/serial.py -> /home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages/ros_serial\n'}
+[19.274126] (ros_serial) StdoutLine: {'line': b'byte-compiling /home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages/ros_serial/serial.py to serial.cpython-310.pyc\n'}
+[19.278214] (-) TimerEvent: {}
+[19.282338] (ros_serial) StdoutLine: {'line': b'running install_data\n'}
+[19.378429] (-) TimerEvent: {}
+[19.479719] (-) TimerEvent: {}
+[19.530554] (ros_serial) StdoutLine: {'line': b'copying resource/ros_serial -> /home/yamashita/serial_ws/install/ros_serial/share/ament_index/resource_index/packages\n'}
+[19.535957] (ros_serial) StdoutLine: {'line': b'copying package.xml -> /home/yamashita/serial_ws/install/ros_serial/share/ros_serial\n'}
+[19.546321] (ros_serial) StdoutLine: {'line': b'running install_egg_info\n'}
+[19.580048] (-) TimerEvent: {}
+[19.681411] (-) TimerEvent: {}
+[19.782813] (-) TimerEvent: {}
+[19.791482] (ros_serial) StdoutLine: {'line': b"removing '/home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages/ros_serial-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[19.795295] (ros_serial) StdoutLine: {'line': b'Copying ../../build/ros_serial/ros_serial.egg-info to /home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages/ros_serial-0.0.0-py3.10.egg-info\n'}
+[19.809015] (ros_serial) StdoutLine: {'line': b'running install_scripts\n'}
+[19.883549] (-) TimerEvent: {}
+[19.986492] (-) TimerEvent: {}
+[20.087782] (-) TimerEvent: {}
+[20.189130] (-) TimerEvent: {}
+[20.290491] (-) TimerEvent: {}
+[20.391774] (-) TimerEvent: {}
+[20.493249] (-) TimerEvent: {}
+[20.594793] (-) TimerEvent: {}
+[20.696089] (-) TimerEvent: {}
+[20.797427] (-) TimerEvent: {}
+[20.898801] (-) TimerEvent: {}
+[21.000080] (-) TimerEvent: {}
+[21.101367] (-) TimerEvent: {}
+[21.202913] (-) TimerEvent: {}
+[21.304187] (-) TimerEvent: {}
+[21.405470] (-) TimerEvent: {}
+[21.506863] (-) TimerEvent: {}
+[21.608186] (-) TimerEvent: {}
+[21.710165] (-) TimerEvent: {}
+[21.812460] (-) TimerEvent: {}
+[21.913912] (-) TimerEvent: {}
+[22.015222] (-) TimerEvent: {}
+[22.116518] (-) TimerEvent: {}
+[22.217995] (-) TimerEvent: {}
+[22.230442] (ros_serial) StdoutLine: {'line': b'Installing talker script to /home/yamashita/serial_ws/install/ros_serial/lib/ros_serial\n'}
+[22.234707] (ros_serial) StdoutLine: {'line': b"writing list of installed files to '/home/yamashita/serial_ws/build/ros_serial/install.log'\n"}
+[22.318610] (-) TimerEvent: {}
+[22.420320] (-) TimerEvent: {}
+[22.521982] (-) TimerEvent: {}
+[22.617916] (ros_serial) CommandEnded: {'returncode': 0}
+[22.622166] (-) TimerEvent: {}
+[22.723487] (-) TimerEvent: {}
+[22.825066] (-) TimerEvent: {}
+[22.926485] (-) TimerEvent: {}
+[23.028391] (-) TimerEvent: {}
+[23.130379] (-) TimerEvent: {}
+[23.232399] (-) TimerEvent: {}
+[23.334242] (-) TimerEvent: {}
+[23.436886] (-) TimerEvent: {}
+[23.540132] (-) TimerEvent: {}
+[23.641968] (-) TimerEvent: {}
+[23.743258] (-) TimerEvent: {}
+[23.844483] (-) TimerEvent: {}
+[23.946417] (ros_serial) JobEnded: {'identifier': 'ros_serial', 'rc': 0}
+[23.952840] (-) TimerEvent: {}
+[23.953922] (-) EventReactorShutdown: {}

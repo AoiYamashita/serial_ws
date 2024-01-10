@@ -1,0 +1,38 @@
+[13.002s] Invoking command in '/home/yamashita/serial_ws/src/ros_serial': PYTHONPATH=/home/yamashita/serial_ws/build/ros_serial/prefix_override:/home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros_serial build --build-base /home/yamashita/serial_ws/build/ros_serial/build install --record /home/yamashita/serial_ws/build/ros_serial/install.log --single-version-externally-managed
+[16.013s] running egg_info
+[16.248s] writing ../../build/ros_serial/ros_serial.egg-info/PKG-INFO
+[16.253s] writing dependency_links to ../../build/ros_serial/ros_serial.egg-info/dependency_links.txt
+[16.255s] writing entry points to ../../build/ros_serial/ros_serial.egg-info/entry_points.txt
+[16.258s] writing requirements to ../../build/ros_serial/ros_serial.egg-info/requires.txt
+[16.260s] writing top-level names to ../../build/ros_serial/ros_serial.egg-info/top_level.txt
+[16.752s] reading manifest file '../../build/ros_serial/ros_serial.egg-info/SOURCES.txt'
+[16.760s] writing manifest file '../../build/ros_serial/ros_serial.egg-info/SOURCES.txt'
+[16.763s] running build
+[16.764s] running build_py
+[16.765s] copying ros_serial/serial.py -> /home/yamashita/serial_ws/build/ros_serial/build/lib/ros_serial
+[16.767s] copying ros_serial/__init__.py -> /home/yamashita/serial_ws/build/ros_serial/build/lib/ros_serial
+[16.771s] running install
+[16.774s] /home/yamashita/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[16.775s] !!
+[16.776s] 
+[16.777s]         ********************************************************************************
+[16.778s]         Please avoid running ``setup.py`` directly.
+[16.779s]         Instead, use pypa/build, pypa/installer or other
+[16.780s]         standards-based tools.
+[16.781s] 
+[16.782s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[16.783s]         ********************************************************************************
+[16.783s] 
+[16.784s] !!
+[16.785s]   self.initialize_options()
+[16.842s] running install_lib
+[17.075s] running install_data
+[17.313s] copying resource/ros_serial -> /home/yamashita/serial_ws/install/ros_serial/share/ament_index/resource_index/packages
+[17.319s] copying package.xml -> /home/yamashita/serial_ws/install/ros_serial/share/ros_serial
+[17.321s] running install_egg_info
+[17.568s] removing '/home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages/ros_serial-0.0.0-py3.10.egg-info' (and everything under it)
+[17.572s] Copying ../../build/ros_serial/ros_serial.egg-info to /home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages/ros_serial-0.0.0-py3.10.egg-info
+[17.584s] running install_scripts
+[19.932s] Installing talker script to /home/yamashita/serial_ws/install/ros_serial/lib/ros_serial
+[19.937s] writing list of installed files to '/home/yamashita/serial_ws/build/ros_serial/install.log'
+[20.319s] Invoked command in '/home/yamashita/serial_ws/src/ros_serial' returned '0': PYTHONPATH=/home/yamashita/serial_ws/build/ros_serial/prefix_override:/home/yamashita/serial_ws/install/ros_serial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros_serial build --build-base /home/yamashita/serial_ws/build/ros_serial/build install --record /home/yamashita/serial_ws/build/ros_serial/install.log --single-version-externally-managed
